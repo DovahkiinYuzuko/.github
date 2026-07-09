@@ -17,7 +17,8 @@
 - `PULL_REQUEST_TEMPLATE.md` — Pull Requestテンプレート
 - `ISSUE_TEMPLATE/` — バグ報告・機能提案用のIssueテンプレート（日英対応）
 
-> [!NOTE]このリポジトリ自体に対して直接コードの変更や機能追加を行う場所ではありません。各テンプレートの改善提案はIssueにてお願いします。
+> [!NOTE]
+> このリポジトリ自体に対して直接コードの変更や機能追加を行う場所ではありません。各テンプレートの改善提案はIssueにてお願いします。
 
 ---
 
@@ -34,4 +35,5 @@ If a repository does not have its own settings, the templates placed here are au
 - `PULL_REQUEST_TEMPLATE.md` — Pull Request template
 - `ISSUE_TEMPLATE/` — Issue templates for bug reports and feature requests (Japanese/English)
 
-> [!NOTE]This repository is not intended for direct code changes or feature additions. Please use Issues to suggest improvements to the templates.
+> [!NOTE]
+> This repository is not intended for direct code changes or feature additions. Please use Issues to suggest improvements to the templates.
