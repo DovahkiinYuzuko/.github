@@ -1,0 +1,10 @@
+# project:.github
+*
+!.gitignore
+# ---AUTO-Generated---
+# .gitignores/.github.gitignore
+!CONTRIBUTING.md
+!PULL_REQUEST_TEMPLATE.md
+# .gitignores/ISSUE_TEMPATE.gitignore
+!ISSUE_TEMPLATE/
+!ISSUE_TEMPLATE/**
