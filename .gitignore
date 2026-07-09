@@ -6,6 +6,9 @@
 !CONTRIBUTING.md
 !PULL_REQUEST_TEMPLATE.md
 !README.md
+# .gitignores/assets.gitignore
+!assets/
+!assets/icon_*
 # .gitignores/ISSUE_TEMPATE.gitignore
 !ISSUE_TEMPLATE/
 !ISSUE_TEMPLATE/**
