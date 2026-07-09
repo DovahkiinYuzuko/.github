@@ -5,6 +5,7 @@
 # .gitignores/.github.gitignore
 !CONTRIBUTING.md
 !PULL_REQUEST_TEMPLATE.md
+!README.md
 # .gitignores/ISSUE_TEMPATE.gitignore
 !ISSUE_TEMPLATE/
 !ISSUE_TEMPLATE/**
