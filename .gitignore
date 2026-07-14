@@ -7,6 +7,7 @@
 !PULL_REQUEST_TEMPLATE.md
 !README.md
 !SUPPORT.md
+!SECURITY.md
 # .gitignores/assets.gitignore
 !assets/
 !assets/icon_*
